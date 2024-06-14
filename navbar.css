@@ -1,0 +1,50 @@
+.container{
+    height: 800px;
+    width: 100%;
+    background-color: white;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    
+
+}
+.nav ul li{
+    list-style-type: none;
+    display: inline;
+    padding-left: 30px;
+    left: 10px;
+}
+.nav ul li a{
+    display: inline;
+}
+.header{
+    height: 500px;
+    width: 93%;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: beige;
+    background-image: url(../Task1/example/images/pic4.jpg);
+    background-size: cover;
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    height: 40px;
+    width: 10%;
+    color: rgb(204, 0, 255);
+    border-radius: 10px;
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 30PX;
+    padding-top: 10px;
+}
+.font{
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 100%;
+}
